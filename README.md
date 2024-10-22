@@ -1,38 +1,67 @@
-# Hola, mi nombre es Berny Valverde 👋 
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
+###
 
+<div align="center">
+  <a href="linkedin.com/in/vgberny/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://mailto:vgberny@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/84312361" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+</div>
 
-Soy un apasionado de la informática 
-Con un gran interés en la tecnología y la resolución de problemas. Soy un fascinado de las computadoras y todo lo relacionado con ellas. He dedicado mucho tiempo a aprender sobre software y redes, y he explorado diferentes tecnologías  gracias a mi formación como técnico universitario y a través de cursos en línea y proyectos personales. 
+###
 
-A lo largo de mi formación, he tenido la oportunidad de trabajar en diferentes proyectos que me han permitido adquirir habilidades valiosas en la creación de aplicaciones y la gestión de bases de datos. 
+<h1 align="center">Hi there 👋 My name is Berny Valverde</h1>
 
-## Mis tecnologías 
+###
 
+<h3 align="left">👩‍💻  About Me</h3>
 
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-<img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django Logo" width="62"/>
-<img src="https://github.com/user-attachments/assets/e2769d90-865c-4216-8b06-359b2c154f3e" alt="c# Logo" width="32"/>
-<img src="https://github.com/user-attachments/assets/7584ef35-d869-4cdc-9310-157b12397e3a" alt=".net Logo" width="32"/>
-<img src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="visual Logo" width="29"/>
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git Logo" width="29"/>
+###
 
+<p align="left">💻 Software engineer,📘book reader and 🎞️🍿 movie lover</p>
 
+###
 
-</br>
-Y alguna más...
-<!--
-**Walt3rMel0n/Walt3rMel0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">🛠 Language and tools</h3>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
