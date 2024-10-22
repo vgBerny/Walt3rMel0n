@@ -7,7 +7,7 @@ Con un gran interés en la tecnología y la resolución de problemas. Soy un fas
 
 A lo largo de mi formación, he tenido la oportunidad de trabajar en diferentes proyectos que me han permitido adquirir habilidades valiosas en la creación de aplicaciones y la gestión de bases de datos. 
 
-## Mis tecnologías
+## Mis tecnologías 
 
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
